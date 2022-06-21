@@ -1,2 +1,5 @@
-# Python
-This is repository for Python learning
+# Python - Helloworld
+
+This is first repository for Python
+
+I love :guitar: & :coffee:
